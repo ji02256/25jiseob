@@ -1,2 +1,10 @@
 ﻿  test.c
+D:\25신지섭\MidtermTest\20251409\test.c(35,13): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+      D:\25신지섭\MidtermTest\20251409\test.c(35,13):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+      D:\25신지섭\MidtermTest\20251409\test.c(35,13):
+      누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+      D:\25신지섭\MidtermTest\20251409\test.c(35,13):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
   20251409.vcxproj -> D:\25신지섭\MidtermTest\x64\Debug\20251409.exe
